@@ -342,7 +342,7 @@ Gained practical experience working with chatbot systems and AI-powered applicat
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yeswan1&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=Yeswan1&theme=tokyonight&hide_border=true"/>
 
 </div>
 
