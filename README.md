@@ -1,33 +1,35 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1e3a8a,100:06b6d4&height=230&section=header&text=YESWANTH%20SURYA%20RAJ&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20SOFTWARE%20ENGINEERING&descAlignY=60&descSize=17"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=220&section=header&text=YESWANTH%20SURYA%20RAJ&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Software%20Engineering&descAlignY=58&descSize=18"/>
 
-<h2>👋 Hi, I'm Yeswanth</h2>
+<br>
+
+<h2>👋 Hello, I'm Yeswanth</h2>
+
+<h3>AI & Data Science Engineer • Software Developer • ML Enthusiast</h3>
 
 <p>
-  <b>B.Tech AI & Data Science | Software Developer | AI/ML Enthusiast</b>
-</p>
-
-<p>
-  <i>Building intelligent applications and solving real-world problems through technology.</i>
+<i>Building intelligent systems, scalable applications & solving real-world problems.</i>
 </p>
 
 <br>
 
 <a href="https://github.com/Yeswan1">
-<img src="https://img.shields.io/badge/GitHub-Yeswan1-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-YESWAN1-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/yeswanthsuryarajdasar">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-YESWANTH%20SURYA%20RAJ-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:yeswanthsuryaraj02@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<br><br>
 
 <a href="./resume.pdf">
-<img src="https://img.shields.io/badge/Resume-View%20Resume-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+<img src="https://img.shields.io/badge/📄%20MY%20RESUME-DOWNLOAD%20RESUME-2563EB?style=for-the-badge"/>
 </a>
 
 <br><br>
@@ -44,6 +46,8 @@ I'm a **B.Tech Artificial Intelligence and Data Science student at Saveetha Scho
 
 I enjoy transforming ideas into practical applications — from machine-learning pipelines and intelligent chatbots to backend systems and data-driven solutions.
 
+I'm continuously improving my problem-solving skills through **Data Structures & Algorithms** while exploring modern AI technologies such as **NLP, Deep Learning, RAG and Generative AI**.
+
 ### ⚡ Quick Facts
 
 | | |
@@ -52,7 +56,7 @@ I enjoy transforming ideas into practical applications — from machine-learning
 | 🏫 **University** | Saveetha School of Engineering |
 | 📅 **Graduation** | July 2027 |
 | 📍 **Location** | Chennai, India |
-| 💻 **Primary Languages** | Java • Python • JavaScript |
+| 💻 **Languages** | Java • Python • JavaScript |
 | 🤖 **AI Focus** | Machine Learning • NLP • Deep Learning • RAG |
 | 🌐 **Development** | React.js • FastAPI • Flask • Node.js |
 | 🗄️ **Databases** | MySQL • Oracle SQL |
@@ -60,100 +64,17 @@ I enjoy transforming ideas into practical applications — from machine-learning
 
 ---
 
-# 🎯 What I Bring
-
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-### 🤖 AI / ML
-
-Machine Learning
-
-NLP
-
-Deep Learning
-
-RAG
-
-</td>
-
-<td align="center" width="25%">
-
-### 💻 Software
-
-Java
-
-Python
-
-JavaScript
-
-REST APIs
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧠 Core CS
-
-DSA
-
-OOP
-
-SDLC
-
-Problem Solving
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚙️ Engineering
-
-Git
-
-Docker
-
-MySQL
-
-Oracle SQL
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🧠 Core Competencies
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Problem%20Solving-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Structures-0891B2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OOP-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-EA580C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-DB2777?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-059669?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST%20APIs-1D4ED8?style=for-the-badge"/>
-
-</p>
-
----
-
-# 🛠️ Tech Stack
+# 🧠 What I Work With
 
 <div align="center">
 
-### 💻 Programming Languages
+### 💻 Programming
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python,java,js" />
 
 <br>
 
-`Python` `Java` `JavaScript` `HTML` `CSS`
+`Python` &nbsp; `Java` &nbsp; `JavaScript`
 
 ---
 
@@ -163,11 +84,11 @@ Oracle SQL
 
 <br>
 
-`Machine Learning` `NLP` `Deep Learning` `RAG`
+`Machine Learning` &nbsp; `NLP` &nbsp; `Deep Learning` &nbsp; `RAG`
 
-`LangChain` `Pandas` `NumPy` `Scikit-learn`
+`LangChain` &nbsp; `Pandas` &nbsp; `NumPy` &nbsp; `Scikit-learn`
 
-`MLflow` `DagsHub`
+`MLflow` &nbsp; `DagsHub`
 
 ---
 
@@ -177,9 +98,9 @@ Oracle SQL
 
 <br>
 
-`React.js` `Node.js` `FastAPI` `Flask`
+`React.js` &nbsp; `Node.js` &nbsp; `FastAPI` &nbsp; `Flask`
 
-`REST APIs` `Backend Development`
+`REST APIs` &nbsp; `Backend Development`
 
 ---
 
@@ -189,9 +110,9 @@ Oracle SQL
 
 <br>
 
-`MySQL` `Oracle SQL` `Git` `GitHub`
+`MySQL` &nbsp; `Oracle SQL` &nbsp; `Git` &nbsp; `GitHub`
 
-`Docker` `VS Code`
+`Docker` &nbsp; `VS Code`
 
 </div>
 
@@ -225,8 +146,8 @@ An end-to-end machine learning pipeline focused on **intrusion detection**, cove
 
 <br>
 
-<a href="YOUR_NETWORK_SECURITY_REPOSITORY">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/Yeswan1">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -253,8 +174,8 @@ A **Retrieval-Augmented Generation** chatbot designed to provide intelligent hea
 
 <br>
 
-<a href="YOUR_RAG_CHATBOT_REPOSITORY">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/Yeswan1">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -284,8 +205,8 @@ An intelligent chatbot integrating **real-time web search APIs** with NLP-based 
 
 <br>
 
-<a href="YOUR_AI_SEARCH_REPOSITORY">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/Yeswan1">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -311,8 +232,8 @@ A deep-learning based text prediction system using **LSTM/RNN architecture** to 
 
 <br>
 
-<a href="YOUR_LSTM_REPOSITORY">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/Yeswan1">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -335,6 +256,11 @@ A deep-learning based text prediction system using **LSTM/RNN architecture** to 
 
 Worked on practical data-science and machine-learning workflows, including data preprocessing, feature engineering and model development.
 
+<br>
+
+**Focus:**  
+`Data Science` `Machine Learning` `Python`
+
 </td>
 
 <td width="50%" valign="top">
@@ -344,6 +270,11 @@ Worked on practical data-science and machine-learning workflows, including data 
 ### OneYes Infotech Solutions
 
 Gained practical experience working with chatbot systems and AI-powered applications.
+
+<br>
+
+**Focus:**  
+`Artificial Intelligence` `Chatbots` `Python`
 
 </td>
 
@@ -356,13 +287,13 @@ Gained practical experience working with chatbot systems and AI-powered applicat
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🏅%20National%20Student%20Award-Award%20Recipient-F59E0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🏅%20NATIONAL%20STUDENT%20AWARD-AWARD%20RECIPIENT-F59E0B?style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/💻%20DSA-Problem%20Solving-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💻%20DSA-PROBLEM%20SOLVING-2563EB?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/🤖%20AI%2FML-Multiple%20Projects-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤖%20AI%2FML-MULTIPLE%20PROJECTS-0891B2?style=for-the-badge"/>
 
 </div>
 
@@ -373,7 +304,7 @@ Gained practical experience working with chatbot systems and AI-powered applicat
 <table>
 
 <tr>
-<td width="50">☕</td>
+<td width="55">☕</td>
 <td><b>Java SE 11 Certification</b></td>
 </tr>
 
@@ -421,7 +352,7 @@ Gained practical experience working with chatbot systems and AI-powered applicat
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Yeswan1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Yeswan1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
 
 </div>
 
@@ -444,50 +375,110 @@ Gained practical experience working with chatbot systems and AI-powered applicat
 <table>
 <tr>
 
-<td align="center">🤖<br><b>Generative AI</b></td>
-<td align="center">🧠<br><b>RAG Systems</b></td>
-<td align="center">🔗<br><b>LangChain</b></td>
-<td align="center">📚<br><b>NLP</b></td>
+<td align="center">
+
+🤖  
+**Generative AI**
+
+</td>
+
+<td align="center">
+
+🧠  
+**RAG Systems**
+
+</td>
+
+<td align="center">
+
+🔗  
+**LangChain**
+
+</td>
+
+<td align="center">
+
+📚  
+**NLP**
+
+</td>
 
 </tr>
 
 <tr>
 
-<td align="center">☁️<br><b>Cloud & Deployment</b></td>
-<td align="center">⚙️<br><b>Backend Engineering</b></td>
-<td align="center">🧩<br><b>DSA</b></td>
-<td align="center">🚀<br><b>AI Applications</b></td>
+<td align="center">
+
+☁️  
+**Cloud & Deployment**
+
+</td>
+
+<td align="center">
+
+⚙️  
+**Backend Engineering**
+
+</td>
+
+<td align="center">
+
+🧩  
+**Data Structures & Algorithms**
+
+</td>
+
+<td align="center">
+
+🚀  
+**AI Applications**
+
+</td>
 
 </tr>
+
 </table>
 
 </div>
 
 ---
 
-# 🧩 Development Focus
+# 🤝 Let's Connect
 
-```text
-Artificial Intelligence
-        │
-        ├── Machine Learning
-        ├── NLP
-        ├── Deep Learning
-        ├── RAG
-        └── Generative AI
-                 │
-                 ▼
-        Software Engineering
-                 │
-        ├── Backend Development
-        ├── REST APIs
-        ├── Databases
-        └── Application Development
-                 │
-                 ▼
-        Problem Solving
-                 │
-        ├── Data Structures
-        ├── Algorithms
-        ├── OOP
-        └── SDLC
+<div align="center">
+
+<a href="https://www.linkedin.com/in/yeswanthsuryarajdasar">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:yeswanthsuryaraj02@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Yeswan1">
+<img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="./resume.pdf">
+<img src="https://img.shields.io/badge/RESUME-VIEW-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<br>
+
+### 💡 *"Learn. Build. Deploy. Repeat."*
+
+<br>
+
+**Thanks for visiting my profile! ⭐**
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=120&section=footer"/>
+
+</div>
