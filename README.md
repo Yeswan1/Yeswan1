@@ -1,372 +1,133 @@
 <div align="center">
 
-# 👋 YESWANTH SURYA RAJ
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00B4D8&height=200&section=header&text=YESWANTH&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Full-Stack%20Builder%20%E2%80%A2%20RAG%20Systems&descAlignY=55&descSize=18&animation=fadeIn" width="100%" alt="Yeswanth banner"/>
 
-### `<Yeswanth/>`
-
-**AI / ML Engineer • Software Engineer • Data Science Enthusiast**
-
-<p>
-  <a href="https://github.com/Yeswan1">
-    <img src="https://img.shields.io/badge/GitHub-Yeswan1-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/yeswanthsuryarajdasar">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:yeswanthsuryaraj02@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p>
-  <a href="./resume.pdf">
-    <img src="https://img.shields.io/badge/📄%20View%20Resume-Download%20Resume-blue?style=for-the-badge" />
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=Yeswan1&label=Profile%20Views&color=blue&style=for-the-badge" />
+![Profile Views](https://komarev.com/ghpvc/?username=Yeswan1&color=00B4D8&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Yeswan1?label=Followers&style=for-the-badge&color=blue)
+![OCP Java](https://img.shields.io/badge/Oracle-Certified%20Java%20SE%2011-F80000?style=for-the-badge&logo=oracle)
 
 </div>
 
----
+## 👋 About Me
 
-## 👨‍💻 About Me
+I'm an **Artificial Intelligence and Data Science** undergrad at Saveetha School of Engineering, Chennai (Expected July 2027). I like building things end-to-end — from data pipelines to deployed AI applications — and I'm currently prepping hard for campus placements while shipping side projects on the side.
 
-I'm a **B.Tech Artificial Intelligence and Data Science student at Saveetha School of Engineering, Chennai**, passionate about building intelligent applications and solving real-world problems using software engineering, machine learning, and AI.
+- 🔭 **Currently building:** MoneyMap — an on-device AI personal finance app (React Native + NestJS + Prisma) with a GRU-based goal forecaster and UPI SMS parsing
+- 🧪 **Past roles:** Data Science Intern @ EduExpose · AI Intern @ OneYes Infotech Solutions
+- 🏅 **Certified:** Oracle Certified Java SE 11 Developer (OCP) · Oracle SQL Certification (Oracle 12c)
+- 🌱 **Exploring right now:** RAG architectures, vector databases, and on-device ML inference (ONNX)
+- 💬 **Ask me about:** RAG pipelines, ML experiment tracking (MLflow/DagsHub), or building finance apps for the Indian market
+- 📍 Based in Chennai, India
 
-* 🎓 B.Tech in **Artificial Intelligence & Data Science**
-* 📅 Expected Graduation: **July 2027**
-* 💻 Strong foundation in **Java, Python & JavaScript**
-* 🤖 Interested in **AI, Machine Learning, NLP & Deep Learning**
-* 🧠 Exploring **RAG, LangChain & intelligent applications**
-* ⚙️ Experienced with **REST APIs, FastAPI, Flask & Node.js**
-* 📊 Interested in **Data Science & Machine Learning**
-* 🧩 Practicing **Data Structures, OOP & Problem Solving**
-* 🚀 Building end-to-end software and AI projects
-* 📍 Chennai, India
+<br>
 
----
+## 🧰 Tech Stack
 
-# 🛠️ Tech Stack
+<div align="center">
 
-### 💻 Languages & Core
+**Languages & Core**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,py,js,html,css" />
 
-<p align="center">
+**AI / ML**
 
-`Python` • `Java` • `JavaScript` • `HTML` • `CSS`
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+<br>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-6A0DAD?style=flat-square)
 
-`Data Structures` • `OOP` • `Problem Solving` • `SDLC`
+**Frontend & Backend**
 
-</p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,flask" />
 
----
+**Databases & Tools**
 
-### 🤖 AI / ML / Data Science
+<img src="https://skillicons.dev/icons?i=mysql,oracle,git,docker,vscode" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
+</div>
 
-<p align="center">
+<br>
 
-`Machine Learning` • `NLP` • `Deep Learning`
-
-`RAG` • `LangChain` • `Pandas` • `NumPy`
-
-`Scikit-learn` • `MLflow` • `DagsHub`
-
-</p>
-
----
-
-### 🌐 Web & Backend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,flask" />
-</p>
-
-<p align="center">
-
-`React.js` • `Node.js` • `FastAPI` • `Flask`
-
-`REST APIs` • `Backend Development`
-
-</p>
-
----
-
-### 🗄️ Databases & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,docker,vscode" />
-</p>
-
-<p align="center">
-
-`MySQL` • `Oracle SQL` • `Git` • `GitHub`
-
-`Docker` • `VS Code`
-
-</p>
-
----
-
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 🛡️ End-to-End ML Pipeline for Network Security
+Intrusion detection pipeline with preprocessing, feature engineering, and model training. Modular architecture cut debugging effort by 30%, with MLflow + DagsHub integrated for experiment tracking.
 
-## 🛡️ End-to-End ML Pipeline for Network Security
-
-An end-to-end machine learning pipeline designed for **intrusion detection**, including preprocessing, feature engineering and model training.
-
-✨ Modular and scalable architecture
-📊 MLflow experiment tracking
-📈 DagsHub model/metric visualization
-⚙️ Reduced debugging effort by **30%**
-
-`Python` `Machine Learning` `MLflow` `DagsHub`
-
-<br>
-
-<a href="https://github.com/Yeswan1">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+`Python` `MLflow` `DagsHub` `Scikit-learn`
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 🏥 RAG-Based Smart Healthcare Chatbot
+Retrieval-augmented chatbot using embeddings and vector databases for context-aware medical responses. Top-K semantic similarity search improved response relevance by 25%.
 
-## 🏥 RAG-Based Smart Healthcare Chatbot
-
-A **Retrieval-Augmented Generation chatbot** designed to provide healthcare assistance using embeddings and vector-based retrieval.
-
-🔎 Top-K similarity search
-🧠 Embedding-based retrieval
-📚 Vector database integration
-📈 Improved response relevance by **25%**
-
-`Python` `RAG` `NLP` `Embeddings`
-
-<br>
-
-<a href="https://github.com/Yeswan1">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+`RAG` `Vector DB` `LangChain` `Embeddings`
 
 </td>
-
 </tr>
-
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 🗞️ AI Chatbot with Web Search & News Summarizer
+Chatbot combining real-time web search APIs with NLP-based summarization, cutting information retrieval time by 40% through optimized query processing.
 
-## 🤖 AI Chatbot with Web Search
-
-An intelligent chatbot integrating **real-time web search APIs** with NLP-based news and information summarization.
-
-🌐 Real-time web search
-📰 News summarization
-🧠 Dynamic query handling
-⚡ Reduced information retrieval time by **40%**
-
-`Python` `NLP` `APIs` `AI`
-
-<br>
-
-<a href="https://github.com/Yeswan1">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+`NLP` `Web Search API` `Summarization`
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 💰 MoneyMap
+On-device personal finance app for the Indian market — GRU-based Goal Achievability Forecaster with ONNX inference, UPI SMS parsing, and AI-driven spending insights.
 
-## 🧠 Next Word Predictor
-
-A deep learning project using **LSTM/RNN** architecture for next-word prediction.
-
-🔤 Sequence-based text prediction
-🧠 LSTM/RNN architecture
-⚙️ Optimized preprocessing
-📈 Improved prediction accuracy by **15%**
-
-`Python` `LSTM` `RNN` `Deep Learning`
-
-<br>
-
-<a href="https://github.com/Yeswan1">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+`React Native` `NestJS` `Prisma` `ONNX`
 
 </td>
-
 </tr>
 </table>
 
----
+## 💼 Experience & 🎓 Education
 
-# 💼 Experience
+| Role | Organization |
+|---|---|
+| Data Science Intern | EduExpose — data preprocessing, feature engineering & model development |
+| AI Intern | OneYes Infotech Solutions — NLP chatbots & intelligent automation |
 
-<table>
-<tr>
+**B.Tech, Artificial Intelligence and Data Science** — Saveetha School of Engineering, Chennai *(Expected July 2027)*
+**Intermediate (BIEAP)** — BR Oxford Junior College *(2023)*
 
-<td width="50%" align="center">
-
-### 📊 Data Science Intern
-
-**EduExpose**
-
-Worked on data preprocessing, feature engineering and machine-learning related tasks.
-
-</td>
-
-<td width="50%" align="center">
-
-### 🤖 AI Intern
-
-**OneYes Infotech Solutions**
-
-Worked on chatbot systems and AI-powered applications.
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🎓 Education
-
-### 🎓 B.Tech — Artificial Intelligence & Data Science
-
-**Saveetha School of Engineering, Chennai**
-
-**Expected Graduation:** July 2027
-
----
-
-# 📜 Certifications
-
-* ☕ **Java SE 11 Certification**
-* 🗄️ **SQL Certification — Oracle / Database Management**
-* 🌐 **Full Stack Developer Bootcamp — Frontend & Backend**
-* 🤖 **Machine Learning, NLP & Deep Learning — Krish Naik**
-* 🧠 **Agentic AI Bootcamp — LangChain & LangGraph**
-
----
-
-# 🏆 Achievements
+## 📊 GitHub Stats
 
 <div align="center">
 
-### 🥇 National Student Award
+<img src="https://github-readme-stats.vercel.app/api?username=Yeswan1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yeswan1&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 
-**Award Recipient**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeswan1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-<br>
-
-### 💻 Problem Solving
-
-**Data Structures & Algorithms Practice**
-
-<br>
-
-### 🤖 AI / ML
-
-**Multiple Machine Learning & AI Projects**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yeswan1&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%"/>
 
 </div>
 
----
-
-# 📊 GitHub Stats
+## 🤝 Connect With Me
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yeswan1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yeswan1&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeswan1&layout=compact&theme=tokyonight&hide_border=true" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yeswanthsuryarajdasar)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yeswanthsuryaraj02@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yeswan1)
 
 </div>
 
----
-
-# 🏆 GitHub Trophies
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:0F2027&height=100&section=footer" width="100%"/>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Yeswan1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yeswan1&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Yeswan1/Yeswan1/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
-
-# 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/yeswanthsuryarajdasar">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:yeswanthsuryaraj02@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/Yeswan1">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="./resume.pdf">
-<img src="https://img.shields.io/badge/RESUME-4285F4?style=for-the-badge&logo=readthedocs&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Building. Learning. Improving.
-
-*Turning ideas into intelligent solutions.*
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+*Building AI systems one pipeline at a time 🚀*
 
 </div>
