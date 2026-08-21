@@ -336,13 +336,11 @@ Gained practical experience working with chatbot systems and AI-powered applicat
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Yeswan1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeswan1&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Yeswan1&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=Yeswan1&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yeswan1&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -352,7 +350,7 @@ Gained practical experience working with chatbot systems and AI-powered applicat
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Yeswan1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Yeswan1&theme=tokyonight&no-frame=true&no-bg=true&column=6"/>
 
 </div>
 
