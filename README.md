@@ -346,16 +346,6 @@ Gained practical experience working with chatbot systems and AI-powered applicat
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Yeswan1&theme=tokyonight&no-frame=true&no-bg=true&column=6"/>
-
-</div>
-
----
-
 # 📈 Contribution Graph
 
 <div align="center">
