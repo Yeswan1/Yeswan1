@@ -1,34 +1,26 @@
 <div align="center">
 
-# 👋 YESWANTH SURYA RAJ
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00B4D8&height=200&section=header&text=YESWANTH&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Full-Stack%20Builder%20%E2%80%A2%20RAG%20Systems&descAlignY=55&descSize=18&animation=fadeIn" width="100%" alt="Yeswanth banner"/>
 
-### `<Yeswanth/>`
-
-**AI / ML Engineer • Software Engineer • Data Science Enthusiast**
-
-<p>
-  <a href="https://github.com/Yeswan1">
-    <img src="https://img.shields.io/badge/GitHub-Yeswan1-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/yeswanthsuryarajdasar">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:yeswanthsuryaraj02@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p>
-  <a href="./resume.pdf">
-    <img src="https://img.shields.io/badge/📄%20View%20Resume-Download%20Resume-blue?style=for-the-badge" />
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=Yeswan1&label=Profile%20Views&color=blue&style=for-the-badge" />
+![Profile Views](https://komarev.com/ghpvc/?username=Yeswan1&color=00B4D8&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Yeswan1?label=Followers&style=for-the-badge&color=blue)
+![OCP Java](https://img.shields.io/badge/Oracle-Certified%20Java%20SE%2011-F80000?style=for-the-badge&logo=oracle)
 
 </div>
 
----
+## 👋 About Me
+
+I'm an **Artificial Intelligence and Data Science** undergrad at Saveetha School of Engineering, Chennai (Expected July 2027). I like building things end-to-end — from data pipelines to deployed AI applications — and I'm currently prepping hard for campus placements while shipping side projects on the side.
+
+- 🔭 **Currently building:** MoneyMap — an on-device AI personal finance app (React Native + NestJS + Prisma) with a GRU-based goal forecaster and UPI SMS parsing
+- 🧪 **Past roles:** Data Science Intern @ EduExpose · AI Intern @ OneYes Infotech Solutions
+- 🏅 **Certified:** Oracle Certified Java SE 11 Developer (OCP) · Oracle SQL Certification (Oracle 12c)
+- 🌱 **Exploring right now:** RAG architectures, vector databases, and on-device ML inference (ONNX)
+- 💬 **Ask me about:** RAG pipelines, ML experiment tracking (MLflow/DagsHub), or building finance apps for the Indian market
+- 📍 Based in Chennai, India
+
+<br>
+
 
 ## 👨‍💻 About Me
 
